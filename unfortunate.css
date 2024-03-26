@@ -7,33 +7,39 @@
 
 html, body {
     height: 100vh;
+    text-align: center;
+    width: 100%;
+}
+
+.display {
+    background-color: #8a2be2;
+    text-align: center;
+    width: 25%;
+    margin: auto;
 }
 
 .dice {
-    background-color: #8a2be2;
-    position: relative;
-    top: 50%;
-    width: 25%;
+    position: absolute;
     transform: translateY(-50%);
-    
+    top: 50%;
+    width: 100%;
 }
 
+article {
+    margin: auto;
+    width: 35%;
+    background-color: #FFA6FF;
+}
+
+
 /*
-(color pallate orginized by christian)
+(color pallate organized by christian)
 #8A2BE2
 
 #6690AB
 
 #3A2A46
 
-(optinal)
+(optional)
 #FFA6FF
 */
-
-
-
-
-
-
-
-
