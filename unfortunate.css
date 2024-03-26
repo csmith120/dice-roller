@@ -1,0 +1,39 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100vh;
+}
+
+.dice {
+    background-color: #8a2be2;
+    position: relative;
+    top: 50%;
+    width: 25%;
+    transform: translateY(-50%);
+    
+}
+
+/*
+(color pallate orginized by christian)
+#8A2BE2
+
+#6690AB
+
+#3A2A46
+
+(optinal)
+#FFA6FF
+*/
+
+
+
+
+
+
+
+
