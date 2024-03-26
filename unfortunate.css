@@ -9,6 +9,7 @@ html, body {
     height: 100vh;
     text-align: center;
     width: 100%;
+    background-color: #3A2A46;
 }
 
 .display {
@@ -31,9 +32,21 @@ article {
     background-color: #FFA6FF;
 }
 
+.answer {
+    background-color: #6690ab;
+    width: 25%;
+    margin: auto;
+}
+
+.dice-options{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    text-decoration: #6690AB;
+}
 
 /*
-(color pallate organized by christian)
+(color pallete organized by christian)
 #8A2BE2
 
 #6690AB
